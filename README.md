@@ -30,8 +30,29 @@ BLEAudioConnect/
 
 | Device List | Device Details |
 |-------------|----------------|
-| ![Simulator Screenshot - iPhone 16 Pro - 2025-06-25 at 05 25 35](https://github.com/user-attachments/assets/df1f8cb6-f62c-48a1-8f00-e5bb88053c27)
- | ![Simulator Screenshot - iPhone 16 Pro - 2025-06-25 at 05 25 39](https://github.com/user-attachments/assets/a6009435-86c4-4f13-a76e-c593537d6282)|
+| ![Simulator Screenshot - iPhone 16 Pro - 2025-06-25 at 05 25 35](https://github.com/user-attachments/assets/df1f8cb6-f62c-48a1-8f00-e5bb88053c27)| 
+  ![Simulator Screenshot - iPhone 16 Pro - 2025-06-25 at 05 25 39](https://github.com/user-attachments/assets/a6009435-86c4-4f13-a76e-c593537d6282)|
 
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/hemaks123/BLEAudioConnect-SwiftUI.git
+   ```
+
+2. Open in Xcode and run on Simulator:
+   - Select an iPhone Simulator (e.g., iPhone 15)
+   - Hit `⌘ + R` to build & run
+
+---
+
+## 📦 Future Enhancements
+
+- 🔄 Real `CoreBluetooth` scanning for physical devices
+- 🌐 Live REST API instead of local simulation
+- 📱 Dark Mode & accessibility enhancements
 
 ---
