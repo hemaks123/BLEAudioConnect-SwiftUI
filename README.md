@@ -23,3 +23,15 @@ BLEAudioConnect/
 ├── ViewModels/ → List & Detail ViewModels, BLEManager
 ├── Views/ → SwiftUI UI for listing and viewing details
 └── BLEAudioConnectApp → App entry point
+
+---
+
+## 📸 Screenshots
+
+| Device List | Device Details |
+|-------------|----------------|
+| ![Simulator Screenshot - iPhone 16 Pro - 2025-06-25 at 05 25 35](https://github.com/user-attachments/assets/df1f8cb6-f62c-48a1-8f00-e5bb88053c27)
+ | ![Simulator Screenshot - iPhone 16 Pro - 2025-06-25 at 05 25 39](https://github.com/user-attachments/assets/a6009435-86c4-4f13-a76e-c593537d6282)|
+
+
+---
